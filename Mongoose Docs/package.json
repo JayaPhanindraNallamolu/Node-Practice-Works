@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "mogoose": "^0.0.1-security",
+    "mongoose": "^6.3.5"
+  },
+  "type": "module"
+}
